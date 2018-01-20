@@ -1,6 +1,4 @@
-"""Hello, today we are going to create a program called Madlibs. Mad Libs are stories with blank spaces that a reader can fill in with their own words.
-
-"""
+""" Mad Libs are stories with blank spaces that a reader can fill in with their own words."""
 
 #informing the user the program has started
 print "Mad Libs is starting!"
